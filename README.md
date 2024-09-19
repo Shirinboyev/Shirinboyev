@@ -1,13 +1,19 @@
 # Hi there, I'm G'ayrat 👋
 
-## About Me:
-I'm a passionate **Java Developer** with experience in building high-performance applications. I love exploring new technologies and improving my skills in software development.
+I'm a passionate **Java Backend Developer** with experience in building scalable and high-performance applications. I love working with modern technologies and continuously improving my skills in software development. Let's connect and collaborate on exciting projects!
 
-- 🌱 I'm currently learning **Spring Boot 3.3.2** and **Java 21**.
-- 👨‍💻 I'm looking to collaborate on interesting **Java** projects.
-- 💬 Ask me about **Java**, **Spring Boot**, **REST APIs**, and anything tech-related.
+---
 
-## Technologies & Tools:
+## 🚀 About Me
+- 🌱 Currently learning **Spring Boot 3.3.2** and **Java 21**.
+- 👨‍💻 Exploring and collaborating on **Java**, **Spring Boot**, and **REST APIs** projects.
+- 💼 Open to opportunities in **backend development**.
+- 🎓 Studying at **PDP Academy**.
+- 📍 Based in **Samarkand, Uzbekistan**.
+
+---
+
+## 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -19,7 +25,14 @@ I'm a passionate **Java Developer** with experience in building high-performance
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## About Me:
-- 📍 I'm from **Samarkand region, Ishtixon district, Qayirma neighborhood**.
-- 🎓 Currently studying **Java backend development** at **PDP Academy**.
-- 📁 [My GitHub Projects](https://github.com/Shirinboyev)
+---
+
+## 📞 Let's Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gayrat.shirinboyev)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Gayrat_Shirinboyev)
+
+---
+
+## 💻 My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shirinboyev&show_icons=true&theme=radical)
